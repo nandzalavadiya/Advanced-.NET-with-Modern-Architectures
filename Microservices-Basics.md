@@ -73,7 +73,7 @@ Delete these files:
 - `Controllers/WeatherForecastController.cs`
 - `EmployeeService.http`
 
-### Step 4: Replace `Program.cs`
+### Step 5: Replace `Program.cs`
 
 **File:** `source/EmployeeService/EmployeeService/Program.cs`
 
@@ -101,7 +101,7 @@ app.MapControllers();
 app.Run();
 ```
 
-### Step 5: Set a fixed port
+### Step 6: Set a fixed port
 
 **File:** `Properties/launchSettings.json`
 
@@ -113,7 +113,7 @@ In the profile named `"http"` & `"https"`, change `applicationUrl`:
 
 ```
 
-### Step 6: Run and verify EmployeeService
+### Step 7: Run and verify EmployeeService
 
 
 <img width="1907" height="1005" alt="Emp Services Run Part-1-1" src="https://github.com/user-attachments/assets/b10895bf-1336-4977-b86c-5cd0e3343554" />
@@ -122,7 +122,7 @@ In the profile named `"http"` & `"https"`, change `applicationUrl`:
 
 <img width="1933" height="1050" alt="Emp Services Run Part-3-1" src="https://github.com/user-attachments/assets/29b88c65-ced4-467f-8aea-5204da6195e7" />
 
-### Step 7: Create LeaveTypeService and LeaveRequestService
+### Step 8: Create LeaveTypeService and LeaveRequestService
 
 <img width="1907" height="1037" alt="Nested Project Createtion-1" src="https://github.com/user-attachments/assets/d10942ec-dee3-4cda-b738-eea69e525c0d" />
 
@@ -185,12 +185,12 @@ app.Run();
 
 ```
 
-## Step 8 : Run and verify LeaveTypeService/LeaveRequestService
+## Step 9 : Run and verify LeaveTypeService/LeaveRequestService
 
 <img width="1897" height="1015" alt="Run(Select Which one Run)-1" src="https://github.com/user-attachments/assets/a6d717d9-93e3-42f4-b41e-0a0691614063" />
 
 
-## 9. Run the All Services into Together
+## 10. Run the All Services into Together
 
 <img width="1910" height="1040" alt="Run All Services Together-1" src="https://github.com/user-attachments/assets/6628d908-54b9-4def-b894-2fde80319adf" />
 
