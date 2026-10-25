@@ -1,6 +1,8 @@
 # Analyze Domains and Define Microservice Boundaries with ER Models
 
-![alt text](00-shared-database-vs-owned-data-1.png)
+
+<img width="1800" height="900" alt="00-shared-database-vs-owned-data" src="https://github.com/user-attachments/assets/192bbedc-f816-4a12-8a92-75b7c910c6fe" />
+
 
 ## What You Will Do
 
