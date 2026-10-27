@@ -1,6 +1,9 @@
 # Implement Layered Architecture Using Controllers, Services, Repositories & DTOs
 
-![alt text](00-layered-architecture-1.png)
+
+
+<img width="1800" height="930" alt="00-layered-architecture" src="https://github.com/user-attachments/assets/5bfa34f7-d5c1-4db1-97d9-84024832d6d5" />
+
 
 ## What You Will Do
 
