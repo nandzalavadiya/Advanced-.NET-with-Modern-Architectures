@@ -1,6 +1,8 @@
 # Lab 7: Develop a Basic .NET Microservice with CRUD Operations
 
-![alt text](00-crud-request-flow-1.png)
+
+<img width="1800" height="840" alt="00-crud-request-flow" src="https://github.com/user-attachments/assets/ab76f096-a1a8-41c3-a4f6-cafae5abcd11" />
+
 
 ---
 
@@ -241,6 +243,7 @@ public class LeaveTypesController : ControllerBase
 
 ## Step 8: Run and Test with Scalar
 
-![alt text](<API Test GetAll-1.png>)
+<img width="1767" height="857" alt="API Test GetAll" src="https://github.com/user-attachments/assets/4ab50b17-955f-4aa6-8dde-f22d1a42feb2" />
 
-![alt text](<API Test POST.png>)
+<img width="1740" height="841" alt="API Test POST" src="https://github.com/user-attachments/assets/a0f600c1-de96-4b5d-9e69-d443c51ffe20" />
+
