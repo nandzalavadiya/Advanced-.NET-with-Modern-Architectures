@@ -1,6 +1,11 @@
 # Fundamentals of Distributed Systems & Microservices
 
-![alt text](<MicroServices vs Distributed System-1.png>)
+
+[Uploading Fundamentals-of-Distributed-Systems-and-Microservices.md…]()
+
+<img width="884" height="330" alt="MicroServices vs Distributed System" src="https://github.com/user-attachments/assets/703c7fc5-6f65-4f77-a342-a3a6a276da67" />
+
+
 
 ## 1. What is a Distributed System?
 
