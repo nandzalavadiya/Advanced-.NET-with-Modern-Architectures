@@ -1,6 +1,7 @@
 # Configure and Evaluate API Gateway Routing Using YARP
 
-![alt text](00-api-gateway-1.png)
+<img width="1800" height="900" alt="00-api-gateway" src="https://github.com/user-attachments/assets/e048e620-299a-4261-a2ce-5ea3a3c23b1e" />
+
 
 ## Create the Gateway Project
 
