@@ -4,7 +4,6 @@
 
 In simple words, microservices means dividing one large application into multiple small, independent applications. Each application is responsible for a particular business task.
 
-![alt text](Gemini_Generated_Image_gjibtngjibtngjib-1.png)
 
 <img width="1376" height="768" alt="Gemini_Generated_Image_gjibtngjibtngjib" src="https://github.com/user-attachments/assets/5aa10206-2e40-4ff0-84c4-6b444b158fa8" />
 
