@@ -1,4 +1,4 @@
-# Microservices Architecture – Leave Management System
+# Microservices Architecture
 
 ## Introduction
 
