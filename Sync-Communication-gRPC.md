@@ -1,6 +1,8 @@
 # Synchronous Communication with gRPC
 
-![alt text](<00-sync-grpc (1)-1.png>)
+
+<img width="1800" height="765" alt="00-sync-grpc (1)-1" src="https://github.com/user-attachments/assets/3d96dbc8-6fe2-4778-84d9-6449d7457b1d" />
+
 
 ## What Will Do
 
@@ -264,6 +266,7 @@ public class HelloController : ControllerBase
 
 ## Build and Run & Test a Endpoint `GET /api/Hello/employee`
 
-![alt text](<Grpc Console-1.png>)
+<img width="1185" height="614" alt="Grpc Console" src="https://github.com/user-attachments/assets/4c9ac5ff-88fa-4d66-a2b0-a0ccba5898de" />
 
-![alt text](<Grpc Test-1.png>)
+<img width="1389" height="617" alt="Grpc Test" src="https://github.com/user-attachments/assets/9309f453-3c95-4406-a910-91dfb8fa14c9" />
+
