@@ -5,7 +5,7 @@
 
 ## Create the Gateway Project
 
-The gateway needs no controllers or database, so we use the smallest template, `web`. Open a terminal in your `source` folder. If your path contains spaces, keep the quotes:
+The gateway needs no controllers or database , so we use the smallest template, `web`. Open a terminal in your `source` folder. If your path contains spaces, keep the quotes:
 
 ```bash
 cd "path\to\Leave-Management-System\source"
